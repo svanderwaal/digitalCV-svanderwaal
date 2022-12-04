@@ -6,23 +6,23 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Sarah van der Waal
+title: Junior Software Developer
+email: svanderwaal@hotmail.com
+website: https://svanderwaal.github.io/digital-cv-svanderwaal/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: facespics
-github_username:  sproogen
+github_username:  svanderwaal
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: jameswgrant
-linkedin_username: jameswgrant
+linkedin_username: sarahvanderwaal
 # xing_username: jekyll
 # pinterest_username: jekyll
 youtube_username: globalmtb
@@ -109,7 +109,7 @@ content:
       - Knitting
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
+      Look at this cool image
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
