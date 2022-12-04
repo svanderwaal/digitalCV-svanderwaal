@@ -54,9 +54,9 @@ about_content: | # this will include new lines to allow paragraphs
 
   In my spare time, I enjoy all things motorbikes, gym (strongman training) and coffee.
 
-  Tech stack: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  <mark>Tech stack:</mark> C#, Ruby, JavaScript
 
-  IP stack: <mark>Patents</mark>, <mark>Trade marks</mark>, <mark>Designs</mark>, infringement and freedom to operate advice, software, mechanical, mining, medical devices.
+  <mark>IP stack:</mark> Patents, Trade marks, Designs, infringement and freedom to operate advice, protection stratergies, software, mechanical, mining, medical devices.
 
 content:
   - title: Projects # Title for the section
