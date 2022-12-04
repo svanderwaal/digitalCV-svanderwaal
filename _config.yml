@@ -6,32 +6,31 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Sarah van der Waal
-title: Junior Software Developer
-location: Melbourne, AU
-email: svanderwaal@hotmail.com
-linkedin: https://www.linkedin.com/in/sarahvanderwaal/
+name: Brett Harris
+title: Senior Network System Administrator
+email: brett.h@email.co.uk
+website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
-# twitter_username: facespics
-github_username:  svanderwaal
+twitter_username: facespics
+github_username:  sproogen
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-# instagram_username: jameswgrant
-linkedin_username: sarahvanderwaal
+instagram_username: jameswgrant
+linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-# youtube_username: globalmtb
+youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-# additional_links:
+additional_links:
 - title: itsgoingto.be
   icon: fas fa-globe
   url: https://www.itsgoingto.be
@@ -47,23 +46,11 @@ linkedin_username: sarahvanderwaal
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile2.jpg
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a passionate and curious developer, logical thinker, and problem solver with
-  strong interpersonal, communication and critical thinking skills. I have a desire
-  to learn, in particular, a desire to learn about new technologies. This desire has
-  led me to pursue a career in IT as a software developer.
+  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am also a registered patent and trade mark attorney with a mechanical
-  engineering background specialising in mechanical, software and medical type
-  inventions.
-
-  Tech stack: <mark>C#</mark>, <mark>Ruby</mark>, <mark>JavaScript</mark>
-
-  IP stack: <mark>Patents</mark>, <mark>Trade marks</mark>, <mark>Designs</mark>,
-  <mark>Mechanical devices</mark>, <mark>Medical devices</mark>, <mark>Software</mark>,
-  <mark>Mining</mark>, <mark>Infringement advice</mark>, <mark>Freedom to Operate advice</mark>,
-  <mark>Commercialisation strategies</mark>
+  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Projects # Title for the section
@@ -117,9 +104,13 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Motor bike riding
-      - Gym (strongman training)
-      - Learning new things
+      - Rock climbing
+      - Gaming
+      - Knitting
+      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+      Look at this cool image  
+      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
