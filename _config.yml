@@ -49,12 +49,21 @@ linkedin_username: sarahvanderwaal
 # about_title: About Me
 about_profile_image: images/profile2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Passionate and curious junior developer. Natural logical thinker and problem solver with strong interpersonal,
-  communication and critical thinking skills. As a mechanical engineer and after working directly with mechanical/
-  software/medical type inventions for the past 10 years, my desire to continue learning about new technologies has led
-  me to pursuing a career in IT as a developer.
+  I am a passionate and curious developer, logical thinker, and problem solver with
+  strong interpersonal, communication and critical thinking skills. I have a desire
+  to learn, in particular, a desire to learn about new technologies. This desire has
+  led me to pursue a career in IT as a software developer.
+
+  I am also a registered patent and trade mark attorney with a mechanical
+  engineering background specialising in mechanical, software and medical type
+  inventions.
 
   Tech stack: <mark>C#</mark>, <mark>Ruby</mark>, <mark>JavaScript</mark>
+
+  IP stack: <mark>Patents</mark>, <mark>Trade marks</mark>, <mark>Designs</mark>,
+  <mark>Mechanical devices</mark>, <mark>Medical devices</mark>, <mark>Software</mark>,
+  <mark>Mining</mark>, <mark>Infringement advice</mark>, <mark>Freedom to Operate advice</mark>,
+  <mark>Commercialisation strategies</mark>
 
 content:
   - title: Projects # Title for the section
@@ -108,13 +117,9 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      - Motor bike riding
+      - Gym (strongman training)
+      - Learning new things
 
 # Footer
 footer_show_references: true
